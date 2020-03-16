@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wamika23.co.uk/static/css/main.5f361e03.chunk.css",
+    "main.js": "/wamika23.co.uk/static/js/main.935dc4d1.chunk.js",
+    "main.js.map": "/wamika23.co.uk/static/js/main.935dc4d1.chunk.js.map",
+    "runtime-main.js": "/wamika23.co.uk/static/js/runtime-main.2ac281a8.js",
+    "runtime-main.js.map": "/wamika23.co.uk/static/js/runtime-main.2ac281a8.js.map",
+    "static/js/2.ad1e2baa.chunk.js": "/wamika23.co.uk/static/js/2.ad1e2baa.chunk.js",
+    "static/js/2.ad1e2baa.chunk.js.map": "/wamika23.co.uk/static/js/2.ad1e2baa.chunk.js.map",
+    "index.html": "/wamika23.co.uk/index.html",
+    "precache-manifest.313e867b6e0d593862006c92e0412e73.js": "/wamika23.co.uk/precache-manifest.313e867b6e0d593862006c92e0412e73.js",
+    "service-worker.js": "/wamika23.co.uk/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/wamika23.co.uk/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ad1e2baa.chunk.js.LICENSE.txt": "/wamika23.co.uk/static/js/2.ad1e2baa.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/wamika23.co.uk/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ac281a8.js",
+    "static/js/2.ad1e2baa.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.935dc4d1.chunk.js"
+  ]
+}
